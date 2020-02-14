@@ -1,14 +1,38 @@
 # Google Summer of Code  
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 
-We are posting our ideas for discussion here.
-You can leave a question under issues.
-May I introduce you to the maintainers that you will be working with:
+## Google Summer of Code (GSoC)
 
+[Google Summer of Code](https://summerofcode.withgoogle.com/) is a global program focused on bringing more student developers into open source software development. Students work with an open source organization on a 3 month programming project during their break from school. Google may provide students with stipends at Google's sole discretion. In general the stipends are adjusted to cost of living. More info can be found on the [GSoC website](https://summerofcode.withgoogle.com/how-it-works/)
 
+## If you want to work on a moja global project through GSoC...
+Students can indicate their intereste in working with moja global by just sending an email to info@moja.global. Students still have to write up a project proposal for the summer and submit it to Google. If accepted, students will spend a month getting to know moja global prior to the start of coding. Students then have three months to code, meeting the deadlines agreed upon with their mentors.
 
+## moja global submitted its GSoC ideas through DIAL 
+The DIAL Open Source Center is moja global's “umbrella organization” to GSoC. This will help raise awareness about moja global's proposed projects among student applicants. The [moja global projects can be found on the DIAL website](https://hub.osc.dial.community/t/gsoc-2020-ideas-moja-global/1024).
 
-## How to Get Involved?  
+The DIAL Open Source Center (OSC) is a collective group of people and open source projects working together to build co-investment in shared resources that benefit each other. 
+
+## moja global project ideas
+We are proposing three types of projects but the scope of these projects is large enough for many students.
+
+* Developing New Models/Modules for FLINT
+* Refactor FLINT Core Code Base
+* Develop FLINT User Interface
+
+## Who will you be working with...
+Allow me to introduce you to the maintainers that will work with you if you choose to work on a moja global project:
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/malfrancis"><img src="https://avatars0.githubusercontent.com/u/5935221?v=4" width="100px;" alt="Mal"/><br /><sub><b>Mal</b></sub></a><br /><a href="https://github.com/moja-global/About-moja-global/commits?author=malfrancis" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/leitchy"><img src="https://avatars0.githubusercontent.com/u/3417817?v=4" width="100px;" alt="James Leitch"/><br /><sub><b>James Leitch</b></sub></a><br /><a href="https://github.com/moja-global/About-moja-global/commits?author=leitchy" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/mfellows"><img src="https://avatars0.githubusercontent.com/u/8548157?v=4" width="100px;" alt="Max Fellows"/><br /><sub><b>Max Fellows</b></sub></a><br /><a href="https://github.com/moja-global/About-moja-global/commits?author=mfellows" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/kaskou"><img src="https://avatars1.githubusercontent.com/u/8544371?v=4" width="100px;" alt=""/><br /><sub><b>kaushik surya sangem</b></sub></a><br /><a href="#maintenance-kaskou" title="Code">💻</a></td>
+  </tr>
+</table>
+
+## Interested in moja global even outside GSoC?  
 
 moja global welcomes a wide range of contributions as explained in [Contributing document](https://github.com/moja-global/About-moja-global/blob/master/CONTRIBUTING.md) and in the [About moja-global Wiki](https://github.com/moja-global/.github/wiki).  
 
@@ -23,26 +47,3 @@ moja global welcomes a wide range of contributions as explained in [Contributing
 * If you have other questions, please write to info@moja.global   
   
 
-## Contributors
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore -->
-<table><tr><td align="center"><a href="http://moja.global"><img src="https://avatars1.githubusercontent.com/u/19564969?v=4" width="100px;" alt="moja global"/><br /><sub><b>moja global</b></sub></a><br /><a href="#projectManagement-moja-global" title="Project Management">📆</a></td></tr></table>
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
-
-
-## Maintainers Reviewers Ambassadors Coaches
-
-The following people are Maintainers Reviewers Ambassadors or Coaches  
-
-<table><tr><td align="center"><a href="http://moja.global"><img src="https://avatars1.githubusercontent.com/u/19564969?v=4" width="100px;" alt="moja global"/><br /><sub><b>moja global</b></sub></a><br /><a href="#projectManagement-moja-global" title="Project Management">📆</a></td></tr></table>  
-
-**Maintainers** review and accept proposed changes  
-**Reviewers** check proposed changes before they go to the Maintainers  
-**Ambassadors** are available to provide training related to this repository  
-**Coaches** are available to provide information to new contributors to this repository  
