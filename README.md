@@ -1,5 +1,9 @@
 # Google Summer of Code  
 
+
+Do you care about climate change? Do you want to make a contribution to the nature based solutions while staying behind your computer? Apply to contribute to a moja global project under the Goolge Summer of Code.
+
+
 ## Google Summer of Code (GSoC)
 
 [Google Summer of Code](https://summerofcode.withgoogle.com/) is a global program focused on bringing more student developers into open source software development. Students work with an open source organization on a 3 month programming project during their break from school. Google may provide students with stipends at Google's sole discretion. In general the stipends are adjusted to cost of living. More info can be found on the [GSoC website](https://summerofcode.withgoogle.com/how-it-works/)
@@ -15,12 +19,12 @@ The DIAL Open Source Center (OSC) is a collective group of people and open sourc
 ## moja global project ideas
 We are proposing three types of projects but the scope of these projects is large enough for many students.
 
-* Developing New Models/Modules for FLINT
-* Refactor FLINT Core Code Base
-* Develop FLINT User Interface
+* [Developing New Models/Modules for FLINT](https://github.com/moja-global/Google-Summer-of-Code/blob/master/Projects/New-Modules.md)
+* [Refactor FLINT Core Code Base](https://github.com/moja-global/Google-Summer-of-Code/blob/master/Projects/Refactor-FLINT-Code.md)
+* [Develop FLINT User Interface](https://github.com/moja-global/Google-Summer-of-Code/blob/master/Projects/FLINT-User-Interface.md)
 
 ## Who will you be working with...
-Allow me to introduce you to the maintainers that will work with you if you choose to work on a moja global project:
+You will be working with the very best coders of the moja global community:
 
 <table>
   <tr>
