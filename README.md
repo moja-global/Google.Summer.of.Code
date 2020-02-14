@@ -1,7 +1,12 @@
-# TITLE 
+# Google Summer of Code  
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 
-Text 
+We are posting our ideas for discussion here.
+You can leave a question under issues.
+May I introduce you to the maintainers that you will be working with:
+
+
+
 
 ## How to Get Involved?  
 
