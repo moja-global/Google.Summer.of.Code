@@ -9,7 +9,9 @@ Do you care about climate change? Do you want to make a contribution to the natu
 [Google Summer of Code](https://summerofcode.withgoogle.com/) is a global program focused on bringing more student developers into open source software development. Students work with an open source organization on a 3 month programming project during their break from school. Google may provide students with stipends at Google's sole discretion. In general the stipends are adjusted to cost of living. More info can be found on the [GSoC website](https://summerofcode.withgoogle.com/how-it-works/)
 
 ## If you want to work on a moja global project through GSoC...
-Students can indicate their intereste in working with moja global by just sending an email to info@moja.global. Students still have to write up a project proposal for the summer and submit it to Google. If accepted, students will spend a month getting to know moja global prior to the start of coding. Students then have three months to code, meeting the deadlines agreed upon with their mentors.
+Students can indicate their interest in working with moja global by just sending an email to info@moja.global or going through the [Digital Impact Alliance (DIAL) Open Source Center (OSC) ideas page](https://hub.osc.dial.community/t/google-summer-of-code-2020-open-source-center/1025). 
+
+Students still have to write up a project proposal for the summer and submit it to Google. If accepted, students will spend a month getting to know moja global prior to coding into their preferred project. Students then have three months to code, meeting the deadlines agreed upon with their mentors.
 
 ## moja global submitted its GSoC ideas through DIAL 
 The DIAL Open Source Center is moja global's “umbrella organization” to GSoC. This will help raise awareness about moja global's proposed projects among student applicants. The [moja global projects can be found on the DIAL website](https://hub.osc.dial.community/t/gsoc-2020-ideas-moja-global/1024).
@@ -24,7 +26,7 @@ We are proposing three types of projects but the scope of these projects is larg
 * [Develop FLINT User Interface](https://github.com/moja-global/Google-Summer-of-Code/blob/master/Projects/FLINT-User-Interface.md)
 
 ## Who will you be working with...
-You will be working with the very best coders of the moja global community:
+You will be working with the very best coders of the moja global community. We will decide on which mentor will be asssigned to which project once the applications are in. If you have a preference for one of the mentors more than one of the projects, just let us know and we will assign you the mentor first and the project afterwards. Here are our top coders:
 
 <table>
   <tr>
@@ -37,7 +39,7 @@ You will be working with the very best coders of the moja global community:
 
 ## Interested in moja global even outside GSoC?  
 
-moja global welcomes a wide range of contributions as explained in [Contributing document](https://github.com/moja-global/About-moja-global/blob/master/CONTRIBUTING.md) and in the [About moja-global Wiki](https://github.com/moja-global/.github/wiki).  
+If climate change is keeping you awake at night, you might as well make a contribution to moja global while you are up and about. moja global welcomes a wide range of contributions as explained in [Contributing document](https://github.com/moja-global/About-moja-global/blob/master/CONTRIBUTING.md) and in the [About moja-global Wiki](https://github.com/moja-global/.github/wiki).  
 
   
 ## FAQ and Other Questions  
