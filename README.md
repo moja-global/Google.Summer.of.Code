@@ -52,3 +52,13 @@ If climate change is keeping you awake at night, you might as well make a contri
 * If you have other questions, please write to info@moja.global   
   
 
+## Maintainers Reviewers Ambassadors Coaches
+
+The following people are Maintainers Reviewers Ambassadors or Coaches
+
+<table><tr><td align="center"><a href="https://github.com/gmajan"><img src="https://avatars0.githubusercontent.com/u/8733319?v=4" width="100px;" alt="Guy Janssen"/><br /><sub><b>Guy Janssen</b></sub></a><br /><a href="#maintenance-gmajan" title="Maintenance">🚧</a></tr></table>
+
+**Maintainers** review and accept proposed changes  
+**Reviewers** check proposed changes before they go to the Maintainers  
+**Ambassadors** are available to provide training related to this repository  
+**Coaches** are available to provide information to new contributors to this repository  
