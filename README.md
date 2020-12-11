@@ -2,7 +2,7 @@
 
 Do you care about climate change? Do you want to make a contribution to the nature based solutions while staying behind your computer? Apply to contribute to a moja global project under the Google Summer of Code.
 
-[See our list of projects](projects/projects.md)
+[See our list of projects](Projects/projects.md)
 
 ## Google Summer of Code (GSoC)
 

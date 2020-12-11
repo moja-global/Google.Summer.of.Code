@@ -18,32 +18,32 @@ We need a wide range of skills, from coders with JS, Python and C++ experience, 
 
 ## Proposed themes
 
-These are assigned an estimated difficulty (D0 -easy, D1 -medium, D2 -hard) and priority (P0 - urgent, P1 -important, P2 -valuable). If you would like to explore a topic further, please open an issue or contact us on (slack)[https://app.slack.com/client/T1G1M5HPF].
+These are assigned an estimated difficulty (**D0** - easy, **D1** - medium, **D2** - hard) and priority (**P0** - urgent, **P1** - important, **P2** - valuable). If you would like to explore a topic further, please open an issue or contact us on [Slack](https://app.slack.com/client/T1G1M5HPF).
 
 ### Installation
-1. Interface to configure and interact with FLINT Docker containers [D1, P1]
-2. Pre-compiled executable with point and click GUI (simplified point models at first) [D2, P2]
+1. Interface to configure and interact with FLINT Docker containers [**D1**, **P1**]
+2. Pre-compiled executable with point and click GUI (simplified point models at first) [**D2**, **P2**]
 
 ### Documentation
-3. Develop a user experience (UX) plan, user interface (UI) style guide [D1, P0]
-4. Sequence diagrams for the FLINT architecture and control flow [D0, P1]
-5. One or more case studies in module development, ideally the creation of a ‘module repository’ [D0, P0]
+3. Develop a user experience (UX) plan, user interface (UI) style guide [**D1**, **P0**]
+4. Sequence diagrams for the FLINT architecture and control flow [**D0**, **P1**]
+5. One or more case studies in module development, ideally the creation of a ‘module repository’ [**D0**, **P0**]
 
 ### Notebooks
-6. Develop notebook workflow for module validation and reporting (possibly pre- and post-processing) [D1, P2]
-7. Could end up as Python or R interfaces that wrap the core FLINT libraries [D2, P2]
+6. Develop notebook workflow for module validation and reporting (possibly pre- and post-processing) [**D1**, **P2**]
+7. Could end up as Python or R interfaces that wrap the core FLINT libraries [**D2**, **P2**]
 
 ### Benchmarking
-8. Design simple reference implementation (e.g. FLINT.example) for profiling and testing [D1, P0]
-9. Implement tooling for profiling performance of core library [D2, P0]
+8. Design simple reference implementation (e.g. FLINT.example) for profiling and testing [**D1**, **P0**]
+9. Implement tooling for profiling performance of core library [**D2**, **P0**]
 
 ### Testing
-10. Configure tests of reference implementation to run in continuous integration pipeline [D1, P1]
-11. Design a continuous deployment framework for cloud-based demonstration purposes, linking multiple containers (e.g. engine, reporting, visualisation) [D2, P1]
+10. Configure tests of reference implementation to run in continuous integration pipeline [**D1**, **P1**]
+11. Design a continuous deployment framework for cloud-based demonstration purposes, linking multiple containers (e.g. engine, reporting, visualisation) [**D2**, **P1**]
 
 ### Optimisation
-12. Evaluate alternative in/output data structures, possibly switching to e.g. compressible GeoTIFFs [D2, P1]
-13. Investigate inconsistencies with exception handling, particularly during spin-up [D2, P0]
-14. Investigate reported issue in forest turn-over rates during non-stand-clearing disturbance events (e.g. parasitism) [D1, P1]
+12. Evaluate alternative in/output data structures, possibly switching to e.g. compressible GeoTIFFs [**D2**, **P1**]
+13. Investigate inconsistencies with exception handling, particularly during spin-up [**D2**, **P0**]
+14. Investigate reported issue in forest turn-over rates during non-stand-clearing disturbance events (e.g. parasitism) [**D1**, **P1**]
 
 moja global has a great track record of mentorship. Please do not hesitate to reach out for more information! We will happily introduce you to previous mentees, many of whom are now essential parts of our community.
