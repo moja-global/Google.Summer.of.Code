@@ -18,7 +18,7 @@ We need a wide range of skills, from coders with JS, Python and C++ experience, 
 
 ## Proposed themes
 
-These are assigned an estimated difficulty (**D0** - easy, **D1** - medium, **D2** - hard) and priority (**P0** - urgent, **P1** - important, **P2** - valuable). If you would like to explore a topic further, please open an issue or contact us on [Slack](https://app.slack.com/client/T1G1M5HPF).
+These are assigned an estimated difficulty (**D0** - easy, **D1** - medium, **D2** - hard) and priority (**P0** - urgent, **P1** - important, **P2** - valuable). If you would like to explore a topic further, please open an issue or contact us on [Slack](https://mojaglobal.slack.com).
 
 ### Installation
 1. Interface to configure and interact with FLINT Docker containers [**D1**, **P1**]
