@@ -25,9 +25,9 @@ These are assigned an estimated difficulty (**D0** - easy, **D1** - medium, **D2
 2. Pre-compiled executable with point and click GUI (simplified point models at first) [**D2**, **P2**]
 
 ### Documentation
-3. Develop a user experience (UX) plan, user interface (UI) style guide [**D1**, **P0**]
-4. Sequence diagrams for the FLINT architecture and control flow [**D0**, **P1**]
-5. One or more case studies in module development, ideally the creation of a ‘module repository’ [**D0**, **P0**]
+3. Develop a user experience (UX) plan, user interface (UI) style guide [**D1**, **P0**] - see: [#5](https://github.com/moja-global/Google_Summer_of_Code/issues/5)
+4. Sequence diagrams for the FLINT architecture and control flow [**D0**, **P1**] - see: [#6](https://github.com/moja-global/Google_Summer_of_Code/issues/6)
+5. One or more case studies in module development, ideally the creation of a ‘module repository’ [**D0**, **P0**] - see: [#7](https://github.com/moja-global/Google_Summer_of_Code/issues/7)
 
 ### Notebooks
 6. Develop notebook workflow for module validation and reporting (possibly pre- and post-processing) [**D1**, **P2**]
@@ -36,14 +36,16 @@ These are assigned an estimated difficulty (**D0** - easy, **D1** - medium, **D2
 ### Benchmarking
 8. Design simple reference implementation (e.g. FLINT.example) for profiling and testing [**D1**, **P0**]
 9. Implement tooling for profiling performance of core library [**D2**, **P0**]
+10. Design adaptive sampling regime to prioritise pixel selection as resolution increases from coarse to fine [**D2**, **P2**]
+11. Develop an asynchronous job-queue for work scheduling and distributed computation [**D2**, **P1**]
 
 ### Testing
-10. Configure tests of reference implementation to run in continuous integration pipeline [**D1**, **P1**]
-11. Design a continuous deployment framework for cloud-based demonstration purposes, linking multiple containers (e.g. engine, reporting, visualisation) [**D2**, **P1**]
+12. Configure tests of reference implementation to run in continuous integration pipeline [**D1**, **P1**]
+13. Design a continuous deployment framework for cloud-based demonstration purposes, linking multiple containers (e.g. engine, reporting, visualisation) [**D2**, **P1**]
 
 ### Optimisation
-12. Evaluate alternative in/output data structures, possibly switching to e.g. compressible GeoTIFFs [**D2**, **P1**]
-13. Investigate inconsistencies with exception handling, particularly during spin-up [**D2**, **P0**]
-14. Investigate reported issue in forest turn-over rates during non-stand-clearing disturbance events (e.g. parasitism) [**D1**, **P1**]
+14. Evaluate alternative in/output data structures, possibly switching to e.g. compressible GeoTIFFs [**D2**, **P1**]
+15. Investigate inconsistencies with exception handling, particularly during spin-up [**D2**, **P0**]
+16. Investigate reported issue in forest turn-over rates during non-stand-clearing disturbance events (e.g. parasitism) [**D1**, **P1**]
 
 moja global has a great track record of mentorship. Please do not hesitate to reach out for more information! We will happily introduce you to previous mentees, many of whom are now essential parts of our community.
